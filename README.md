@@ -12,7 +12,7 @@ Team-build app as part of the GLO-3012 Web Application Developement at Laval Uni
 ---
 ## 📹 Demo
 
-![Demo](Demo.gif)
+![Demo](assets/Demo.gif)
 
 ---
 
@@ -48,11 +48,13 @@ Team-build app as part of the GLO-3012 Web Application Developement at Laval Uni
 
 ![Screenshot 1]
 *Home Page Overview*
-[Home Page](assets/UFood-home-page.png)
+
+![Home Page](assets/UFood-home-page.png)
 
 ![Screenshot 2]
 *Restaurant page on mobile*
-[Restaurant Page](assets/restaurant-page-mobile.png)
+
+![Restaurant Page](assets/restaurant-page-mobile.png)
 
 ---
 
