@@ -1,3 +1,5 @@
+> 🇫🇷 [Lire en français](README.fr.md)
+
 # UFood — Restaurant Discovery App
 
 Frontend application for discovering restaurants, managing favorites, and sharing visits with friends. Built against a course-provided REST API.
